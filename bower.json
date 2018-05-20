@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/amigochain/amigo-bitcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Amigo Message Verification and Signing for Amigo",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "amigo",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
