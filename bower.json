@@ -2,16 +2,16 @@
   "name": "bitcore-message",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/amigochain/amigo-bitcore-message",
+  "homepage": "https://github.com/kalilinuxoo7/simple-bitcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Amigo Message Verification and Signing for Amigo",
+  "description": "Simple Message Verification and Signing for Simple",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "amigo",
+    "simple",
     "bitcore",
     "btc",
     "satoshi",

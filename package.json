@@ -1,7 +1,7 @@
 {
-  "name": "amigo-bitcore-message",
+  "name": "simple-bitcore-message",
   "version": "1.0.3",
-  "description": "Amigo Messages for Bitcore",
+  "description": "Simple Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "amigo",
+    "simple",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amigochain/amigo-bitcore-message.git"
+    "url": "https://github.com/kalilinuxoo7/simple-bitcore-message.git"
   },
   "dependencies": {
-    "amigo-bitcore-lib": "git://github.com/amigochain/amigo-bitcore-lib"
+    "simple-bitcore-lib": "git://github.com/simplechain/simple-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",

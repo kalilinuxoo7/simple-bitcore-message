@@ -1,4 +1,4 @@
-var bitcore = require('amigo-bitcore-lib');
+var bitcore = require('simple-bitcore-lib');
 bitcore.Message = require('./lib/message');
 
 module.exports = bitcore.Message;
