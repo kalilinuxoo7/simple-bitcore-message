@@ -23,7 +23,7 @@
     "url": "https://github.com/kalilinuxoo7/simple-bitcore-message.git"
   },
   "dependencies": {
-    "simple-bitcore-lib": "git://github.com/simplechain/simple-bitcore-lib"
+    "simple-bitcore-lib": "git://github.com/kalilinuxoo7/simple-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
